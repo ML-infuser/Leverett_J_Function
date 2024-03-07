@@ -9,3 +9,8 @@ The Leverett J-function may not accurately predict relative permeability behavio
 
 While the Leverett J-function is commonly used in reservoir engineering, its applicability may be limited in unconventional reservoirs (e.g., tight gas sands, shale formations).
 
+
+
+
+Leverett_J_Multi_Lithology comprises of many data points collected from different lithology which increases the overall knowledge of subsurface.
+
